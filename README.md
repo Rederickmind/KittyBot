@@ -5,7 +5,7 @@
 
 ### Технологии:
 - Python 3.9
-- python-dotenv 0.19.0
+- python-dotenv 0.21.1
 - python-telegram-bot 13.7
 
 ### Установка и запуск
